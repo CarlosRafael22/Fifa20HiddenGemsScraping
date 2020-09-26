@@ -1,0 +1,850 @@
+[
+    {
+        "name": "Christian Fruchtl",
+        "age": 19,
+        "position": "GK",
+        "overall": 66,
+        "potential": 83,
+        "contract_until": 2022
+    },
+    {
+        "name": "Maarten Vandevoordt",
+        "age": 17,
+        "position": "GK",
+        "overall": 66,
+        "potential": 85,
+        "contract_until": 2023
+    },
+    {
+        "name": "Lucas Chevalier",
+        "age": 17,
+        "position": "GK",
+        "overall": 61,
+        "potential": 84,
+        "contract_until": 2024
+    },
+    {
+        "name": "Igor Diveev",
+        "age": 19,
+        "position": "CB",
+        "overall": 70,
+        "potential": 83,
+        "contract_until": 2024
+    },
+    {
+        "name": "Rayan Ait Nouri",
+        "age": 18,
+        "position": "LB",
+        "overall": 70,
+        "potential": 85,
+        "contract_until": 2021
+    },
+    {
+        "name": "Tiago Djalo",
+        "age": 19,
+        "position": "CB",
+        "overall": 69,
+        "potential": 84,
+        "contract_until": 2024
+    },
+    {
+        "name": "Eric Garcia",
+        "age": 18,
+        "position": "CB",
+        "overall": 69,
+        "potential": 85,
+        "contract_until": 2022
+    },
+    {
+        "name": "Mujaid",
+        "age": 19,
+        "position": "RB",
+        "overall": 69,
+        "potential": 83,
+        "contract_until": 2022
+    },
+    {
+        "name": "Jeremie Frimpong",
+        "age": 18,
+        "position": "RB",
+        "overall": 68,
+        "potential": 85,
+        "contract_until": 2023
+    },
+    {
+        "name": "Nathan Ferguson",
+        "age": 18,
+        "position": "RB",
+        "overall": 68,
+        "potential": 83,
+        "contract_until": 2020
+    },
+    {
+        "name": "Jordan Beyer",
+        "age": 19,
+        "position": "RB",
+        "overall": 68,
+        "potential": 84,
+        "contract_until": 2022
+    },
+    {
+        "name": "Ethan Ampadu",
+        "age": 18,
+        "position": "CB",
+        "overall": 68,
+        "potential": 86,
+        "contract_until": 2023
+    },
+    {
+        "name": "Alexander Bernabei",
+        "age": 18,
+        "position": "LB",
+        "overall": 67,
+        "potential": 83,
+        "contract_until": 2023
+    },
+    {
+        "name": "",
+        "age": 17,
+        "position": "CB",
+        "overall": 67,
+        "potential": 85,
+        "contract_until": 2022
+    },
+    {
+        "name": "Noah Katterbach",
+        "age": 18,
+        "position": "LB",
+        "overall": 67,
+        "potential": 84,
+        "contract_until": 2020
+    },
+    {
+        "name": "",
+        "age": 17,
+        "position": "CB",
+        "overall": 67,
+        "potential": 85,
+        "contract_until": 2022
+    },
+    {
+        "name": "Sepp van den Berg",
+        "age": 17,
+        "position": "CB",
+        "overall": 66,
+        "potential": 84,
+        "contract_until": 2022
+    },
+    {
+        "name": "Nicolo Armini",
+        "age": 18,
+        "position": "CB",
+        "overall": 66,
+        "potential": 84,
+        "contract_until": 2021
+    },
+    {
+        "name": "Josha Vagnoman",
+        "age": 18,
+        "position": "RB",
+        "overall": 66,
+        "potential": 85,
+        "contract_until": 2024
+    },
+    {
+        "name": "Marco Kana",
+        "age": 17,
+        "position": "CB",
+        "overall": 66,
+        "potential": 86,
+        "contract_until": 2023
+    },
+    {
+        "name": "",
+        "age": 17,
+        "position": "RB",
+        "overall": 65,
+        "potential": 83,
+        "contract_until": 2021
+    },
+    {
+        "name": "Ethan Laird",
+        "age": 18,
+        "position": "RB",
+        "overall": 65,
+        "potential": 83,
+        "contract_until": 2023
+    },
+    {
+        "name": "Manu Sanchez",
+        "age": 19,
+        "position": "LB",
+        "overall": 64,
+        "potential": 83,
+        "contract_until": 2023
+    },
+    {
+        "name": "Nathan Collins",
+        "age": 18,
+        "position": "CB",
+        "overall": 63,
+        "potential": 83,
+        "contract_until": 2024
+    },
+    {
+        "name": "Armel Bella-Kotchap",
+        "age": 17,
+        "position": "CB",
+        "overall": 63,
+        "potential": 85,
+        "contract_until": 2024
+    },
+    {
+        "name": "Leonidas Stergiou",
+        "age": 17,
+        "position": "CB",
+        "overall": 63,
+        "potential": 86,
+        "contract_until": 2021
+    },
+    {
+        "name": "Ki-Jana Hoever",
+        "age": 17,
+        "position": "RB",
+        "overall": 62,
+        "potential": 84,
+        "contract_until": 2022
+    },
+    {
+        "name": "Taylor Harwood-Bellis",
+        "age": 17,
+        "position": "CB",
+        "overall": 60,
+        "potential": 83,
+        "contract_until": 2021
+    },
+    {
+        "name": "Luke Matheson",
+        "age": 16,
+        "position": "RB",
+        "overall": 60,
+        "potential": 83,
+        "contract_until": 2022
+    },
+    {
+        "name": "Facundo Pellistri",
+        "age": 17,
+        "position": "RM",
+        "overall": 70,
+        "potential": 86,
+        "contract_until": 2022
+    },
+    {
+        "name": "Charles De Ketelaere",
+        "age": 18,
+        "position": "CAM",
+        "overall": 70,
+        "potential": 84,
+        "contract_until": 2023
+    },
+    {
+        "name": "Ignacio Aliseda",
+        "age": 19,
+        "position": "LW",
+        "overall": 70,
+        "potential": 84,
+        "contract_until": 2023
+    },
+    {
+        "name": "Ryan Gravenberch",
+        "age": 17,
+        "position": "CM",
+        "overall": 70,
+        "potential": 87,
+        "contract_until": 2021
+    },
+    {
+        "name": "Mollejo",
+        "age": 18,
+        "position": "RM",
+        "overall": 70,
+        "potential": 83,
+        "contract_until": 2024
+    },
+    {
+        "name": "Ludovit Reis",
+        "age": 19,
+        "position": "CDM",
+        "overall": 70,
+        "potential": 83,
+        "contract_until": 2022
+    },
+    {
+        "name": "Conor Gallagher",
+        "age": 19,
+        "position": "CM",
+        "overall": 70,
+        "potential": 84,
+        "contract_until": 2021
+    },
+    {
+        "name": "",
+        "age": 17,
+        "position": "CM",
+        "overall": 69,
+        "potential": 84,
+        "contract_until": 2022
+    },
+    {
+        "name": "Jeremy Doku",
+        "age": 17,
+        "position": "RW",
+        "overall": 69,
+        "potential": 87,
+        "contract_until": 2023
+    },
+    {
+        "name": "Paxton Pomykal",
+        "age": 19,
+        "position": "CAM",
+        "overall": 69,
+        "potential": 83,
+        "contract_until": 2023
+    },
+    {
+        "name": "Domingos Quina",
+        "age": 19,
+        "position": "CAM",
+        "overall": 69,
+        "potential": 84,
+        "contract_until": 2022
+    },
+    {
+        "name": "Santiago Rodriguez",
+        "age": 19,
+        "position": "RW",
+        "overall": 68,
+        "potential": 85,
+        "contract_until": 2022
+    },
+    {
+        "name": "Eric Ramires",
+        "age": 19,
+        "position": "CAM",
+        "overall": 68,
+        "potential": 83,
+        "contract_until": 2020
+    },
+    {
+        "name": "Nail Umyarov",
+        "age": 19,
+        "position": "CDM",
+        "overall": 68,
+        "potential": 84,
+        "contract_until": 2023
+    },
+    {
+        "name": "Enzo Le Fee",
+        "age": 19,
+        "position": "CAM",
+        "overall": 68,
+        "potential": 83,
+        "contract_until": 2022
+    },
+    {
+        "name": "Giorgi Tsitaishvili",
+        "age": 18,
+        "position": "RM",
+        "overall": 68,
+        "potential": 85,
+        "contract_until": 2023
+    },
+    {
+        "name": "Alhassan Yusuf",
+        "age": 19,
+        "position": "CDM",
+        "overall": 68,
+        "potential": 83,
+        "contract_until": 2022
+    },
+    {
+        "name": "Matthew Longstaff",
+        "age": 19,
+        "position": "CM",
+        "overall": 68,
+        "potential": 84,
+        "contract_until": 2020
+    },
+    {
+        "name": "Rabbi Matondo",
+        "age": 18,
+        "position": "LM",
+        "overall": 68,
+        "potential": 86,
+        "contract_until": 2023
+    },
+    {
+        "name": "Deiber Caicedo",
+        "age": 19,
+        "position": "RM",
+        "overall": 68,
+        "potential": 86,
+        "contract_until": 2022
+    },
+    {
+        "name": "Sergio Gomez",
+        "age": 18,
+        "position": "RM",
+        "overall": 68,
+        "potential": 85,
+        "contract_until": 2021
+    },
+    {
+        "name": "Angel Gomes",
+        "age": 18,
+        "position": "CAM",
+        "overall": 68,
+        "potential": 85,
+        "contract_until": 2020
+    },
+    {
+        "name": "Rodney Redes",
+        "age": 19,
+        "position": "LW",
+        "overall": 67,
+        "potential": 83,
+        "contract_until": 2022
+    },
+    {
+        "name": "Vitor Ferreira",
+        "age": 19,
+        "position": "CM",
+        "overall": 67,
+        "potential": 84,
+        "contract_until": 2024
+    },
+    {
+        "name": "Han-Noah Massengo",
+        "age": 18,
+        "position": "CM",
+        "overall": 67,
+        "potential": 84,
+        "contract_until": 2023
+    },
+    {
+        "name": "Antonio Marin",
+        "age": 18,
+        "position": "LW",
+        "overall": 67,
+        "potential": 84,
+        "contract_until": 2024
+    },
+    {
+        "name": "Vitor Ferreira",
+        "age": 19,
+        "position": "CM",
+        "overall": 67,
+        "potential": 84,
+        "contract_until": 2024
+    },
+    {
+        "name": "James Sands",
+        "age": 19,
+        "position": "CDM",
+        "overall": 66,
+        "potential": 84,
+        "contract_until": 2022
+    },
+    {
+        "name": "Bryan Gil",
+        "age": 18,
+        "position": "LW",
+        "overall": 66,
+        "potential": 84,
+        "contract_until": 2022
+    },
+    {
+        "name": "Unai Vencedor",
+        "age": 18,
+        "position": "CM",
+        "overall": 66,
+        "potential": 84,
+        "contract_until": 2023
+    },
+    {
+        "name": "Felix Correia",
+        "age": 18,
+        "position": "RW",
+        "overall": 66,
+        "potential": 84,
+        "contract_until": 2024
+    },
+    {
+        "name": "Rodrigo Fernandes",
+        "age": 18,
+        "position": "CDM",
+        "overall": 66,
+        "potential": 84,
+        "contract_until": 2023
+    },
+    {
+        "name": "Jan Thielmann",
+        "age": 17,
+        "position": "RM",
+        "overall": 66,
+        "potential": 84,
+        "contract_until": 2020
+    },
+    {
+        "name": "James Garner",
+        "age": 18,
+        "position": "CDM",
+        "overall": 66,
+        "potential": 85,
+        "contract_until": 2022
+    },
+    {
+        "name": "Noni Madueke",
+        "age": 17,
+        "position": "RW",
+        "overall": 66,
+        "potential": 85,
+        "contract_until": 2024
+    },
+    {
+        "name": "Billy Gilmour",
+        "age": 18,
+        "position": "CM",
+        "overall": 66,
+        "potential": 86,
+        "contract_until": 2023
+    },
+    {
+        "name": "Giovanni Reyna",
+        "age": 16,
+        "position": "LM",
+        "overall": 66,
+        "potential": 86,
+        "contract_until": 2021
+    },
+    {
+        "name": "",
+        "age": 19,
+        "position": "RM",
+        "overall": 65,
+        "potential": 83,
+        "contract_until": 2020
+    },
+    {
+        "name": "Valera",
+        "age": 17,
+        "position": "RM",
+        "overall": 65,
+        "potential": 84,
+        "contract_until": 2021
+    },
+    {
+        "name": "Curtis Jones",
+        "age": 18,
+        "position": "CM",
+        "overall": 65,
+        "potential": 85,
+        "contract_until": 2024
+    },
+    {
+        "name": "Enzo Loiodice",
+        "age": 18,
+        "position": "CM",
+        "overall": 65,
+        "potential": 85,
+        "contract_until": 2021
+    },
+    {
+        "name": "Marcos Antonio",
+        "age": 19,
+        "position": "CM",
+        "overall": 65,
+        "potential": 85,
+        "contract_until": 2023
+    },
+    {
+        "name": "Nathanael Mbuku",
+        "age": 17,
+        "position": "CAM",
+        "overall": 64,
+        "potential": 83,
+        "contract_until": 2023
+    },
+    {
+        "name": "John Yeboah",
+        "age": 19,
+        "position": "RW",
+        "overall": 64,
+        "potential": 84,
+        "contract_until": 2021
+    },
+    {
+        "name": "",
+        "age": 17,
+        "position": "LM",
+        "overall": 64,
+        "potential": 84,
+        "contract_until": 2022
+    },
+    {
+        "name": "Karamoko Dembele",
+        "age": 16,
+        "position": "RW",
+        "overall": 64,
+        "potential": 85,
+        "contract_until": 2021
+    },
+    {
+        "name": "Harvey Elliott",
+        "age": 16,
+        "position": "RW",
+        "overall": 64,
+        "potential": 87,
+        "contract_until": 2022
+    },
+    {
+        "name": "Mohamed Daramy",
+        "age": 17,
+        "position": "RM",
+        "overall": 63,
+        "potential": 83,
+        "contract_until": 2023
+    },
+    {
+        "name": "Alessio Riccardi",
+        "age": 18,
+        "position": "CM",
+        "overall": 63,
+        "potential": 83,
+        "contract_until": 2023
+    },
+    {
+        "name": "Felix Nmecha",
+        "age": 18,
+        "position": "CAM",
+        "overall": 63,
+        "potential": 83,
+        "contract_until": 2021
+    },
+    {
+        "name": "Sontje Hansen",
+        "age": 17,
+        "position": "RW",
+        "overall": 63,
+        "potential": 84,
+        "contract_until": 2021
+    },
+    {
+        "name": "Lucien Agoume",
+        "age": 17,
+        "position": "CM",
+        "overall": 63,
+        "potential": 85,
+        "contract_until": 2022
+    },
+    {
+        "name": "Matias Palacios",
+        "age": 17,
+        "position": "CAM",
+        "overall": 63,
+        "potential": 85,
+        "contract_until": 2021
+    },
+    {
+        "name": "Aster Vranckx",
+        "age": 16,
+        "position": "CM",
+        "overall": 62,
+        "potential": 83,
+        "contract_until": 2022
+    },
+    {
+        "name": "Tommy Doyle",
+        "age": 17,
+        "position": "CM",
+        "overall": 62,
+        "potential": 85,
+        "contract_until": 2021
+    },
+    {
+        "name": "Joao Pedro",
+        "age": 17,
+        "position": "ST",
+        "overall": 70,
+        "potential": 86,
+        "contract_until": 2025
+    },
+    {
+        "name": "Fabio Silva",
+        "age": 17,
+        "position": "ST",
+        "overall": 70,
+        "potential": 86,
+        "contract_until": 2022
+    },
+    {
+        "name": "Yacine Adli",
+        "age": 19,
+        "position": "CF",
+        "overall": 70,
+        "potential": 83,
+        "contract_until": 2023
+    },
+    {
+        "name": "Abel Ruiz",
+        "age": 19,
+        "position": "ST",
+        "overall": 70,
+        "potential": 84,
+        "contract_until": 2021
+    },
+    {
+        "name": "Lassina Traore",
+        "age": 18,
+        "position": "ST",
+        "overall": 69,
+        "potential": 83,
+        "contract_until": 2022
+    },
+    {
+        "name": "Josh Sargent",
+        "age": 19,
+        "position": "ST",
+        "overall": 69,
+        "potential": 83,
+        "contract_until": 2022
+    },
+    {
+        "name": "Timothy Weah",
+        "age": 19,
+        "position": "ST",
+        "overall": 69,
+        "potential": 84,
+        "contract_until": 2024
+    },
+    {
+        "name": "Amine Gouiri",
+        "age": 19,
+        "position": "ST",
+        "overall": 69,
+        "potential": 84,
+        "contract_until": 2022
+    },
+    {
+        "name": "Ahmed Kutucu",
+        "age": 19,
+        "position": "ST",
+        "overall": 68,
+        "potential": 85,
+        "contract_until": 2022
+    },
+    {
+        "name": "Karim Adeyemi",
+        "age": 17,
+        "position": "ST",
+        "overall": 67,
+        "potential": 85,
+        "contract_until": 2021
+    },
+    {
+        "name": "Eddy Salcedo",
+        "age": 17,
+        "position": "CF",
+        "overall": 67,
+        "potential": 83,
+        "contract_until": 2021
+    },
+    {
+        "name": "Sebastiano Esposito",
+        "age": 17,
+        "position": "ST",
+        "overall": 67,
+        "potential": 87,
+        "contract_until": 2022
+    },
+    {
+        "name": "Karim Adeyemi",
+        "age": 17,
+        "position": "ST",
+        "overall": 67,
+        "potential": 85,
+        "contract_until": 2021
+    },
+    {
+        "name": "Sebastiano Esposito",
+        "age": 17,
+        "position": "ST",
+        "overall": 67,
+        "potential": 87,
+        "contract_until": 2022
+    },
+    {
+        "name": "Joshua Zirkzee",
+        "age": 18,
+        "position": "ST",
+        "overall": 66,
+        "potential": 84,
+        "contract_until": 2023
+    },
+    {
+        "name": "",
+        "age": 18,
+        "position": "ST",
+        "overall": 65,
+        "potential": 83,
+        "contract_until": 2024
+    },
+    {
+        "name": "Adam Idah",
+        "age": 18,
+        "position": "ST",
+        "overall": 65,
+        "potential": 84,
+        "contract_until": 2023
+    },
+    {
+        "name": "Roberto Piccoli",
+        "age": 18,
+        "position": "ST",
+        "overall": 64,
+        "potential": 84,
+        "contract_until": 2021
+    },
+    {
+        "name": "Troy Parrott",
+        "age": 17,
+        "position": "ST",
+        "overall": 64,
+        "potential": 85,
+        "contract_until": 2023
+    },
+    {
+        "name": "Danylo Sikan",
+        "age": 18,
+        "position": "ST",
+        "overall": 63,
+        "potential": 83,
+        "contract_until": 2021
+    },
+    {
+        "name": "Armando Broja",
+        "age": 17,
+        "position": "ST",
+        "overall": 61,
+        "potential": 84,
+        "contract_until": 2022
+    },
+    {
+        "name": "Ricky-Jade Jones",
+        "age": 16,
+        "position": "ST",
+        "overall": 59,
+        "potential": 84,
+        "contract_until": 2022
+    }
+]

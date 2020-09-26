@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Joshua Zirkzee",
+        "age": 18,
+        "position": "ST",
+        "overall": 66,
+        "potential": 84,
+        "contract_until": 2023
+    },
+    {
+        "name": "",
+        "age": 18,
+        "position": "ST",
+        "overall": 65,
+        "potential": 83,
+        "contract_until": 2024
+    },
+    {
+        "name": "Adam Idah",
+        "age": 18,
+        "position": "ST",
+        "overall": 65,
+        "potential": 84,
+        "contract_until": 2023
+    },
+    {
+        "name": "Roberto Piccoli",
+        "age": 18,
+        "position": "ST",
+        "overall": 64,
+        "potential": 84,
+        "contract_until": 2021
+    },
+    {
+        "name": "Troy Parrott",
+        "age": 17,
+        "position": "ST",
+        "overall": 64,
+        "potential": 85,
+        "contract_until": 2023
+    },
+    {
+        "name": "Danylo Sikan",
+        "age": 18,
+        "position": "ST",
+        "overall": 63,
+        "potential": 83,
+        "contract_until": 2021
+    },
+    {
+        "name": "Armando Broja",
+        "age": 17,
+        "position": "ST",
+        "overall": 61,
+        "potential": 84,
+        "contract_until": 2022
+    },
+    {
+        "name": "Ricky-Jade Jones",
+        "age": 16,
+        "position": "ST",
+        "overall": 59,
+        "potential": 84,
+        "contract_until": 2022
+    }
+]
